@@ -1,0 +1,7 @@
+Running: xsim.dir/test_seq_dtr_moore_behav/xsimk.exe -simmode gui -wdb test_seq_dtr_moore_behav.wdb -simrunnum 0 -socket 55834
+Design successfully loaded
+Design Loading Memory Usage: 5308 KB (Peak: 5308 KB)
+Design Loading CPU Usage: 31 ms
+Simulation completed
+Simulation Memory Usage: 13920 KB (Peak: 13920 KB)
+Simulation CPU Usage: 983 ms

@@ -1,0 +1,7 @@
+Running: xsim.dir/test_output_hold_mealy_behav/xsimk.exe -simmode gui -wdb test_output_hold_mealy_behav.wdb -simrunnum 0 -socket 56052
+Design successfully loaded
+Design Loading Memory Usage: 5308 KB (Peak: 5308 KB)
+Design Loading CPU Usage: 61 ms
+Simulation completed
+Simulation Memory Usage: 6008 KB (Peak: 6008 KB)
+Simulation CPU Usage: 92 ms
